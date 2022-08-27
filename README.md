@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/freindlytech/freindlytech/raw/main/210902.jpg)](https://rishavchanda.io)
+[![MasterHead](https://github.com/freindlytech/freindlytech/raw/main/210902.jpg)](https://github.com/freindlytech/freindlytech/raw/main/210902.jpg)
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <h3 align="center">A Self made Android developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/freindlytech/freindlytech/raw/main/200.gif">
