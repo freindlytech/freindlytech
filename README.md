@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/freindlytech/freindlytech/raw/main/210902.jpg)](https://github.com/freindlytech/freindlytech/raw/main/210902.jpg)
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
-<h3 align="center">A Self made Android developer</h3>
+<h3 align="center">A Self made Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/freindlytech/freindlytech/raw/main/200.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freindlytech&label=Profile%20views&color=0e75b6&style=flat" alt="freindlytech" /> </p>
 
